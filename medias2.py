@@ -37,5 +37,4 @@ while True:
     elif ver == "sair":
         break
     else:
-
         print("opção inválida")
