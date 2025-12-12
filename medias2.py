@@ -16,7 +16,6 @@ for i in range(n):
     ing.append(ni)
     m = (nm + np + ni) /3
     medias.append(m)
-print("alunos inseridos!")
 while True:
     ver= input("Oque deseja ver?")
     ver.lower
@@ -38,4 +37,5 @@ while True:
     elif ver == "sair":
         break
     else:
+
         print("opção inválida")
